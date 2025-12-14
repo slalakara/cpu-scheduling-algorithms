@@ -1,0 +1,11 @@
+context_switches: 200
+total_time: 2101.2
+avg_waiting: 537.5254999999989
+max_waiting: 1863.190999999997
+avg_turnaround: 548.0254999999989
+max_turnaround: 1883.190999999997
+throughput_T_50: 11
+throughput_T_100: 22
+throughput_T_150: 32
+throughput_T_200: 42
+cpu_efficiency_percent: 99.94288977727027
